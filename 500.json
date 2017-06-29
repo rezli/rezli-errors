@@ -1,4 +1,7 @@
 {
 	"success": false,
-	"error": "Internal Server Error"
+	"errors": {
+		"parameter": "general_error",
+		"messages": "Internal Server Error"
+	}
 }
